@@ -1,0 +1,8 @@
+Esse trabalho consiste em um conjunto de programas que lidam com números complexos salvos em arquivos binários, as entradas são passadas via linha de comando.
+
+cpbuild: recebe do usuário um número complexo em qualquer uma das três formas (algébrica, vetorial ou polar), formata esse número e o salva em um arquivo binário.
+cpview: permite visualizar o número complexo contido em um arquivo em qualquer uma das três formas.
+cpsum: recebe dois arquivos de números complexos e cria um terceiro com a soma dos dois números.
+cpsub recebe dois arquivos de números complexos e cria um terceiro com a subtração entre os dois números.
+cpmult: recebe dois arquivos de números complexos e cria um terceiro com o produto entre os dois números.
+cpdiv: recebe dois arquivos de números complexos e cria um terceiro com a divisão entre os dois números.
